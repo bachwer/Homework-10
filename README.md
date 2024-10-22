@@ -5,7 +5,7 @@ Homework-10
 
 [Cơ bản]2. Xử lý số học trong scratch: https://scratch.mit.edu/projects/1085089225
 
-[Cơ bản]3. Xử lý số học trong scratch: 
+[Cơ bản]3. Xử lý số học trong scratch: https://scratch.mit.edu/projects/1085117016
 
 [Cơ bản]4. Xử lý số học trong scratch: 
 
