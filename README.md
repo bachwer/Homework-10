@@ -15,7 +15,7 @@ Homework-10
 
 [Giỏi]7. Xử lý số học trong scratch: https://scratch.mit.edu/projects/1085507596
 
-[Giỏi]8. Xử lý số học trong scratch: 
+[Giỏi]8. Xử lý số học trong scratch: https://scratch.mit.edu/projects/1085514105/
 
 [Xuất sắc]9. Xử lý số học trong scratch: 
 
