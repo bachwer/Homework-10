@@ -19,4 +19,4 @@ Homework-10
 
 [Xuất sắc]9. Xử lý số học trong scratch: 
 
-[Xuất sắc]10. Xử lý số học trong scratch: 
+[Xuất sắc]10. Xử lý số học trong scratch: https://scratch.mit.edu/projects/1085520250
